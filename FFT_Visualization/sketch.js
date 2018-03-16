@@ -13,7 +13,7 @@ function toggleSong() {
 }
 
 function preload() {
-  song = loadSound('ELY - Smoking Alone v7.wav');
+  song = loadSound('https://raw.githubusercontent.com/CodingTrain/website/master/Tutorials/P5JS/p5.js_sound/17.11_FFT/this-dot-kp.mp3');
 }
 
 function setup() {
